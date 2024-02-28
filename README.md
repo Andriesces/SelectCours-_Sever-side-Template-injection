@@ -1,5 +1,5 @@
 # SelectCours-_Sever-side-Template-injection  
-There is a serious vulnerability in the fastCMS system. The Server Side Template Injection vulnerability may lead to sensitive information leakage, code execution, GetShell, and other issues.  
+There is a serious vulnerability in the SelectCours  system. The Server Side Template Injection vulnerability may lead to sensitive information leakage, code execution, GetShell, and other issues.  
 system URL:  
 https://gitee.com/rahman/select-cours  
 https://github.com/qinghongyou/selectcourse  
