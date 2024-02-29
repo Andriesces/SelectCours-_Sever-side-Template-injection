@@ -33,7 +33,8 @@ fragment=${T     (java.lang.Runtime).getRuntime().exec("calc.exe")}
 
 When clicking to send a data packet, malicious code will be executed to start the computer.
 ![image](https://github.com/Andriesces/SelectCours-_Sever-side-Template-injection/assets/139127885/19ac3c89-80c8-4c80-a44c-8805e346078f)  
-![image](https://github.com/Andriesces/SelectCours-_Sever-side-Template-injection/assets/139127885/85e85737-4804-4fe8-93bc-5519968d7524)
+![image](https://github.com/Andriesces/SelectCours-_Sever-side-Template-injection/assets/139127885/85e85737-4804-4fe8-93bc-5519968d7524)  
+Successful vulnerability verification
 
 
 
